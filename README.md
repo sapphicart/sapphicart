@@ -1,5 +1,3 @@
-![header](header.png)
-
 <h2>Hello!</h2>
 
 - 👋 Hi, I’m @sapphicart.
