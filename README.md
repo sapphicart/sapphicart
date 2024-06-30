@@ -1,3 +1,11 @@
+<div align="center">
+<img src="assets/ponyo.gif">
+<br>
+<br>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4JGKZS7h4Qa16gOU3oNETV?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</div>
+
+
 <h2>Hello!</h2>
 
 - 👋 Hi, I’m @sapphicart.
@@ -33,12 +41,8 @@
 <h2>Stats</h2>
 
 <div align="center">
-    <a href="https://github.com/sapphicart/github-readme-stats">
     <img height=220 src="https://github-readme-stats.vercel.app/api?username=sapphicart&show=prs_merged&theme=ayu-mirage&bg_color=00000000">
-    </a>
-    <a href="https://github.com/sapphicart/github-readme-stats">
     <img height=220 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sapphicart&hide=css,scss&theme=ayu-mirage&bg_color=00000000">
-    </a>
 </div>
 <!---
 sapphicart/sapphicart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
