@@ -2,18 +2,9 @@
 <img src="assets/ponyo.gif">
 </div>
 
-<style>
-    .table {
-        width: 60%;
-    }
-    .song {
-        height: 200px;
-    }
-</style>
-
 <h2>Hello, I'm Shruti Priya!</h2>
 
-<div align="center">
+<div>
 <table>
 <td class="table">
 
