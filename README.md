@@ -2,8 +2,21 @@
 <img src="assets/ponyo.gif">
 </div>
 
+<style>
+    .table {
+        width: 60%;
+    }
+    .song {
+        height: 200px;
+    }
+</style>
 
 <h2>Hello, I'm Shruti Priya!</h2>
+
+<div align="center">
+<table>
+<td class="table">
+
 
 - 👀 I’m a Graphic Designer and InfoSec Researcher
 - 🌱 I’m currently enrolled in MSc Cyber Security program at Royal Holloway, University of London
@@ -12,7 +25,17 @@
 - 🔍 I also publish [OSINT + Cryptography challenges](https://www.shrutipriya.in/challenges/challenges-introduction)
 - 📫 Reach me at [shrutipriya44@gmail.com](mailto:shrutipriya44@gmail.com)
 
-<br>
+
+</td>
+<td class="song">
+<a href="https://open.spotify.com/track/4JGKZS7h4Qa16gOU3oNETV?si=fe7818cc09e94016">
+<img src="assets/dreams.png">
+</a>
+</td>
+</tr>
+</table>
+</div>
+
 
 <h2>Tech Stack:</h2>
 
@@ -60,11 +83,10 @@
 
 <br>
 
-<h2>Would you like some music?</h2>
 <div align="center">
-    <a href="https://open.spotify.com/playlist/6dTF0pWlfwOmw3kPzidRHo?si=2a975b4815a840c8">
-        <img src="assets/spotify-new.png">
-    </a>
+
+![Snake animation](https://github.com/sapphicart/sapphicart/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 
 <!---
