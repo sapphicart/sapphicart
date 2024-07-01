@@ -4,11 +4,6 @@
 
 <h2>Hello, I'm Shruti Priya!</h2>
 
-<div>
-<table>
-<td class="table">
-
-
 - 👀 I’m a Graphic Designer and InfoSec Researcher
 - 🌱 I’m currently enrolled in MSc Cyber Security program at Royal Holloway, University of London
 - 🦄 Take a look at my [design portfolio](https://shruti-priya.pixpa.com/)
@@ -16,16 +11,7 @@
 - 🔍 I also publish [OSINT + Cryptography challenges](https://www.shrutipriya.in/challenges/challenges-introduction)
 - 📫 Reach me at [shrutipriya44@gmail.com](mailto:shrutipriya44@gmail.com)
 
-
-</td>
-<td class="song">
-<a href="https://open.spotify.com/track/4JGKZS7h4Qa16gOU3oNETV?si=fe7818cc09e94016">
-<img src="assets/dreams.png">
-</a>
-</td>
-</tr>
-</table>
-</div>
+<br>
 
 
 <h2>Tech Stack:</h2>
@@ -70,14 +56,6 @@
 <div align="center">
     <img height=200px src="https://github-readme-stats.vercel.app/api?username=sapphicart&show=prs_merged&theme=ayu-mirage&bg_color=00000000">
     <img height=200px src="https://github-readme-stats.vercel.app/api/top-langs/?username=sapphicart&hide=css,scss&theme=ayu-mirage&bg_color=00000000">
-</div>
-
-<br>
-
-<div align="center">
-
-![Snake animation](https://github.com/sapphicart/sapphicart/output/github-contribution-grid-snake.svg)
-
 </div>
 
 <!---
