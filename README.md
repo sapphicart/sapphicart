@@ -76,7 +76,7 @@
 
 <div align="center">
 
-![Snake animation](https://github.com/sapphicart/sapphicart/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/sapphicart/sapphicart/output/github-contribution-grid-snake.svg)
 
 </div>
 
