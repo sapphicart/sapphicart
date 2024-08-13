@@ -6,7 +6,7 @@
 
 - 👀 I’m a Graphic Designer and InfoSec Researcher
 - 🌱 I’m currently enrolled in MSc Cyber Security program at Royal Holloway, University of London
-- 🦄 Take a look at my [design portfolio](https://shruti-priya.pixpa.com/)
+- 🦄 Take a look at my [design portfolio](https://www.behance.net/sapphicart)
 - 👩🏻‍💻 Check out my [pentesting writeups](https://www.shrutipriya.in/writeups/writeups-introduction)
 - 🔍 I also publish [OSINT + Cryptography challenges](https://www.shrutipriya.in/challenges/challenges-introduction)
 - 📫 Reach me at [shrutipriya44@gmail.com](mailto:shrutipriya44@gmail.com)
