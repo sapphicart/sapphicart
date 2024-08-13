@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/ponyo.gif">
+<img src="assets/intro-gif.gif" alt="GIF of my 3D Intro">
 </div>
 
 <h2>Hello, I'm Shruti Priya!</h2>
