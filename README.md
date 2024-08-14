@@ -33,7 +33,7 @@
 <a href="https://github.com/sapphicart/sqli-fuzzer">
     <img height=120px src="https://github-readme-stats.vercel.app/api/pin/?username=sapphicart&repo=sqli-fuzzer&theme=ayu-mirage&bg_color=00000000">
 </a>
-<a href="https://github.com/sapphicart/tamil-word-of-the-day">
+<a href="https://github.com/sapphicart/bechdel-test">
     <img height=120px src="https://github-readme-stats.vercel.app/api/pin/?username=sapphicart&repo=bechdel-test&theme=ayu-mirage&bg_color=00000000">
 </a>
 </div>
