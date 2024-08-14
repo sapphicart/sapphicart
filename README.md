@@ -34,7 +34,7 @@
     <img height=120px src="https://github-readme-stats.vercel.app/api/pin/?username=sapphicart&repo=sqli-fuzzer&theme=ayu-mirage&bg_color=00000000">
 </a>
 <a href="https://github.com/sapphicart/tamil-word-of-the-day">
-    <img height=120px src="https://github-readme-stats.vercel.app/api/pin/?username=sapphicart&repo=tamil-word-of-the-day&theme=ayu-mirage&bg_color=00000000">
+    <img height=120px src="https://github-readme-stats.vercel.app/api/pin/?username=sapphicart&repo=bechdel-test&theme=ayu-mirage&bg_color=00000000">
 </a>
 </div>
 
