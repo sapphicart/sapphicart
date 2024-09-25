@@ -2,7 +2,7 @@
 <img src="assets/intro-gif.gif" alt="GIF of my 3D Intro">
 </div>
 
-<h2>Hello, I'm Shruti Priya!</h2>
+<h2>Hello, I'm sapphicart!</h2>
 
 - 👀 I’m a Graphic Designer and InfoSec Researcher
 - 🌱 I’m currently enrolled in MSc Cyber Security program at Royal Holloway, University of London
