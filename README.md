@@ -33,6 +33,9 @@
 <a href="https://github.com/sapphicart/sqli-fuzzer">
     <img height=120px src="https://github-readme-stats.vercel.app/api/pin/?username=sapphicart&repo=sqli-fuzzer&theme=ayu-mirage&bg_color=00000000">
 </a>
+<a href="https://github.com/sapphicart/malicious-binary">
+    <img height=120px src="https://github-readme-stats.vercel.app/api/pin/?username=sapphicart&repo=malicious-binary&theme=ayu-mirage&bg_color=00000000">
+</a>
 </div>
 
 <br>
