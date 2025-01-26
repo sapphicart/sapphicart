@@ -30,8 +30,8 @@
 <h2>I'm currently working on</h2>
 
 <div align="center">
-<a href="https://github.com/sapphicart/sqli-fuzzer">
-    <img height=120px src="https://github-readme-stats.vercel.app/api/pin/?username=sapphicart&repo=sqli-fuzzer&theme=ayu-mirage&bg_color=00000000">
+<a href="https://github.com/sapphicart/kaonashi">
+    <img height=120px src="https://github-readme-stats.vercel.app/api/pin/?username=sapphicart&repo=kaonashi&theme=ayu-mirage&bg_color=00000000">
 </a>
 <a href="https://github.com/sapphicart/eatshell">
     <img height=120px src="https://github-readme-stats.vercel.app/api/pin/?username=sapphicart&repo=eatshell&theme=ayu-mirage&bg_color=00000000">
