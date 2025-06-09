@@ -9,7 +9,7 @@
 - 🦄 Take a look at my [design portfolio](https://www.behance.net/sapphicart)
 - 👩🏻‍💻 Check out my [pentesting writeups](https://www.shrutipriya.in/writeups/)
 - 🔍 I also publish [OSINT + Cryptography challenges](https://www.shrutipriya.in/challenges/)
-- 📫 Reach me at [shrutipriya44@gmail.com](mailto:shrutipriya44@gmail.com)
+- 📫 Reach me at [sp460@student.london.ac.uk](mailto:sp460@student.london.ac.uk)
 
 <br>
 
