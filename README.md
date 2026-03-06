@@ -25,19 +25,6 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=black">
 </div>
- 
-<br>
-
-<h2>I'm currently working on</h2>
-
-<div align="center">
-<a href="https://github.com/hate-detection/training">
-    <img height=120px src="https://github-readme-stats.vercel.app/api/pin/?username=hate-detection&repo=training&theme=ayu-mirage&bg_color=00000000">
-</a>
-<a href="https://github.com/sapphicart/eatshell">
-    <img height=120px src="https://github-readme-stats.vercel.app/api/pin/?username=sapphicart&repo=eatshell&theme=ayu-mirage&bg_color=00000000">
-</a>
-</div>
 
 <br>
 
@@ -50,14 +37,6 @@
     <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
 </div>
 
-<br>
-
-<h2>Stats</h2>
-
-<div align="center">
-    <img height=200px src="https://github-readme-stats.vercel.app/api/top-langs/?username=sapphicart&hide=css,scss&theme=ayu-mirage&bg_color=00000000">
-    <img height=200px src="https://github-readme-stats.vercel.app/api?username=sapphicart&show=prs_merged&theme=ayu-mirage&bg_color=00000000">
-</div>
 
 <!---
 sapphicart/sapphicart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
